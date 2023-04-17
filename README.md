@@ -9,7 +9,7 @@ The final model is evaluated on a held-out test set and achieves an accuracy of 
 
 ## Python Notebook:
 
-The Python notebook for the Pima Diabetes Predictor project can be found hhere. The notebook contains step-by-step instructions for reproducing the project, including data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.
+The Python notebook for the Pima Diabetes Predictor project can be found here. The notebook contains step-by-step instructions for reproducing the project, including data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.
 
 The notebook then trains and evaluates one main machine learning models, Support Vector Machines to preduct the outcome of a given set of data.
 
